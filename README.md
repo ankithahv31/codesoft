@@ -27,4 +27,7 @@ Categorized sections for easy navigation,High readability with clear fonts and i
 **Description:** Designed an e-commerce website UI/UX project focused on a smooth shopping experience, making it easy for customers to find products and make purchases.
 
 **Features:**
-Product categorization for easy searchability,User-friendly navigation and responsive layout,Integrated search function for quick product discovery
+Product categorization for easy searchability,User-friendly navigation and responsive layout,Integrated search function for quick product discovery.
+
+## Application
+The tool used to complete these task was Figma tool.
