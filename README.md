@@ -30,4 +30,4 @@ Categorized sections for easy navigation,High readability with clear fonts and i
 Product categorization for easy searchability,User-friendly navigation and responsive layout,Integrated search function for quick product discovery.
 
 ## Application
-The tool used to complete these task was Figma tool.
+The tool used to complete these task  Figma tool.
